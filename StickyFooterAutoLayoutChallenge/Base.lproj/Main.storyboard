@@ -24,10 +24,10 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
-                            <constraint firstItem="yZX-mT-kSC" firstAttribute="top" secondItem="kh9-bI-dsS" secondAttribute="top" id="GQ1-uL-NLV"/>
-                            <constraint firstAttribute="bottom" secondItem="yZX-mT-kSC" secondAttribute="bottom" id="NFR-f8-43p"/>
-                            <constraint firstItem="yZX-mT-kSC" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" id="jfl-lu-gdo"/>
-                            <constraint firstAttribute="trailing" secondItem="yZX-mT-kSC" secondAttribute="trailing" id="ye8-lc-D5w"/>
+                            <constraint firstItem="yZX-mT-kSC" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" id="3wy-rY-wOo"/>
+                            <constraint firstAttribute="trailing" secondItem="yZX-mT-kSC" secondAttribute="trailing" id="YC5-ei-MOh"/>
+                            <constraint firstItem="yZX-mT-kSC" firstAttribute="top" secondItem="kh9-bI-dsS" secondAttribute="top" id="fbX-1j-Kqz"/>
+                            <constraint firstAttribute="bottom" secondItem="yZX-mT-kSC" secondAttribute="bottom" id="ieA-kE-jjH"/>
                         </constraints>
                     </view>
                     <connections>
@@ -36,6 +36,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="x5A-6p-PRh" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="266" y="186"/>
         </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
